@@ -1,0 +1,150 @@
+1711149998: mosquitto version 2.0.18 starting
+1711149998: Config loaded from /mosquitto/config/mosquitto.conf.
+1711149998: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1711149998: Create a configuration file which defines a listener to allow remote access.
+1711149998: For more details see https://mosquitto.org/documentation/authentication-methods/
+1711149998: Opening ipv4 listen socket on port 1883.
+1711149998: Opening ipv6 listen socket on port 1883.
+1711149998: Error: Address not available
+1711149998: mosquitto version 2.0.18 running
+1711150091: mosquitto version 2.0.18 terminating
+1711150091: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711150129: mosquitto version 2.0.18 starting
+1711150129: Config loaded from /mosquitto/config/mosquitto.conf.
+1711150129: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1711150129: Create a configuration file which defines a listener to allow remote access.
+1711150129: For more details see https://mosquitto.org/documentation/authentication-methods/
+1711150129: Opening ipv4 listen socket on port 1883.
+1711150129: Opening ipv6 listen socket on port 1883.
+1711150129: Error: Address not available
+1711150129: mosquitto version 2.0.18 running
+1711150263: mosquitto version 2.0.18 terminating
+1711150263: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711150537: mosquitto version 2.0.18 starting
+1711150537: Config loaded from /mosquitto/config/mosquitto.conf.
+1711150537: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1711150537: Create a configuration file which defines a listener to allow remote access.
+1711150537: For more details see https://mosquitto.org/documentation/authentication-methods/
+1711150537: Opening ipv4 listen socket on port 1883.
+1711150537: Opening ipv6 listen socket on port 1883.
+1711150537: Error: Address not available
+1711150537: mosquitto version 2.0.18 running
+1711150691: mosquitto version 2.0.18 terminating
+1711150691: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711150719: mosquitto version 2.0.18 starting
+1711150719: Config loaded from /mosquitto/config/mosquitto.conf.
+1711150719: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1711150719: Create a configuration file which defines a listener to allow remote access.
+1711150719: For more details see https://mosquitto.org/documentation/authentication-methods/
+1711150719: Opening ipv4 listen socket on port 1883.
+1711150719: Opening ipv6 listen socket on port 1883.
+1711150719: Error: Address not available
+1711150719: mosquitto version 2.0.18 running
+1711150761: mosquitto version 2.0.18 terminating
+1711150761: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1711150935: mosquitto version 2.0.18 starting
+1711150935: Config loaded from /mosquitto/config/mosquitto.conf.
+1711150935: Opening ipv4 listen socket on port 1883.
+1711150935: Opening ipv6 listen socket on port 1883.
+1711150935: mosquitto version 2.0.18 running
+1711151003: New connection from 172.24.0.1:59142 on port 1883.
+1711151003: New client connected from 172.24.0.1:59142 as mqtt-explorer-18f04435 (p2, c1, k60).
+1711151003: No will message specified.
+1711151003: Sending CONNACK to mqtt-explorer-18f04435 (0, 0)
+1711151003: Received SUBSCRIBE from mqtt-explorer-18f04435
+1711151003: 	# (QoS 0)
+1711151003: mqtt-explorer-18f04435 0 #
+1711151003: Sending SUBACK to mqtt-explorer-18f04435
+1711151003: Received SUBSCRIBE from mqtt-explorer-18f04435
+1711151003: 	$SYS/# (QoS 0)
+1711151003: mqtt-explorer-18f04435 0 $SYS/#
+1711151003: Sending SUBACK to mqtt-explorer-18f04435
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/version', ... (24 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/uptime', ... (10 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/total', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/inactive', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/disconnected', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/active', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/connected', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/clients/expired', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/received/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/received/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/received/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/sent/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/sent/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/messages/sent/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/dropped/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/dropped/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/dropped/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/received/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/received/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/received/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/sent/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/sent/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/publish/sent/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/received/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/received/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/received/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/sent/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/sent/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/bytes/sent/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/sockets/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/sockets/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/sockets/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/connections/1min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/connections/5min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/load/connections/15min', ... (4 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/messages/stored', ... (2 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/messages/received', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/messages/sent', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/store/messages/count', ... (2 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/store/messages/bytes', ... (3 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/subscriptions/count', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/shared_subscriptions/count', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/retained messages/count', ... (2 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/publish/messages/dropped', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/publish/messages/received', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/publish/messages/sent', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/publish/bytes/received', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/publish/bytes/sent', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/bytes/received', ... (1 bytes))
+1711151003: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r1, m0, '$SYS/broker/bytes/sent', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/uptime', ... (10 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/clients/total', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/clients/maximum', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/clients/active', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/clients/connected', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/received/1min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/sent/1min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/publish/sent/1min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/received/1min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/sent/1min', ... (7 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/sockets/1min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/connections/1min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/received/5min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/sent/5min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/publish/sent/5min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/received/5min', ... (5 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/sent/5min', ... (6 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/sockets/5min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/connections/5min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/received/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/messages/sent/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/publish/sent/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/received/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/bytes/sent/15min', ... (6 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/sockets/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/load/connections/15min', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/messages/stored', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/store/messages/count', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/store/messages/bytes', ... (3 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/subscriptions/count', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/retained messages/count', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/messages/received', ... (1 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/messages/sent', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/publish/messages/sent', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/bytes/received', ... (2 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/bytes/sent', ... (4 bytes))
+1711151012: Sending PUBLISH to mqtt-explorer-18f04435 (d0, q0, r0, m0, '$SYS/broker/publish/bytes/sent', ... (3 bytes))
+1711151015: mosquitto version 2.0.18 terminating
+1711151015: Saving in-memory database to /mosquitto/data//mosquitto.db.
